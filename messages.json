@@ -1,72 +1,77 @@
 {
     "appdescription": {
-        "message": "This app allows you to create qrcode for student form.you can also add this form as an contact in your smartphone"
+        "message": "FastQR允许您创建和保存为PNG格式的QR码，而无需连接到互联网。"
     },
     "appname": {
-        "message": "QR CODE GENERATOR"
+        "message": "FastQR - 离线生成QR码 (QR Code)"
     },
     "generatelink": {
-        "message": "Generate  QR Code"
+        "message": "生成文本/链接QR码"
     },
     "generateBtn": {
-        "message": "Generate"
+        "message": "生成"
     },
     "generateemail": {
-        "message": "Generate E-mail QR Code"
+        "message": "生成的E-mail QR码"
     },
     "generatesms": {
-        "message": "Generate SMS QR Code"
+        "message": "生成短信二维码"
     },
     "generatevcard": {
-        "message": "Generate  QR Code for student form"
+        "message": "生成电子名片二维码"
     },
     "generategeo": {
-        "message": "Generate GEO QR Code"
+        "message": "GEO生成QR码"
     },
     "qrESubject": {
-        "message": "Subject"
+        "message": "主题"
     },
     "qrEMessage": {
-        "message": "Message"
+        "message": "讯息"
     },
     "qrSNumber": {
-        "message": "Number"
+        "message": "编号"
     },
     "qrSMessage": {
-        "message": "Message"
+        "message": "讯息"
     },
     "qrVName": {
-        "message": "Name"
+        "message": "产品名称"
     },
     "qrVLName": {
-        "message": "Last name"
+        "message": "姓"
     },
     "qrVOrg": {
-        "message": "BRANCH"
+        "message": "本组织"
     },
     "qrVTitle": {
-        "message": "Roll NO"
+        "message": "标题/角色"
     },
-"qrVFAX": {
-        "message": "Attendance"
-    },
-"qrVCountry": {
-        "message": "College"
+    "qrVStreet": {
+        "message": "街"
     },
     "qrVCity": {
-        "message": "City"
+        "message": "城"
     },
     "qrVLocation": {
-        "message": "State/Region/County"
+        "message": "国家/地区/县"
     },
     "qrVZip": {
-        "message": "Zip / Postal code"
+        "message": "邮政编码"
     },
-    
+    "qrVCountry": {
+        "message": "国家"
+    },
+    "qrVTel": {
+        "message": "电话"
+    },
     "qrVMobile": {
-        "message": "Mobile phone"
+        "message": "手机"
+    },
+    "qrVFax": {
+        "message": "传真"
     },
     "qrVBday": {
-        "message": "Birthday"
+        "message": "生日"
     }
 }
