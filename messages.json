@@ -1,0 +1,72 @@
+{
+    "appdescription": {
+        "message": "This app allows you to create qrcode for student form.you can also add this form as an contact in your smartphone"
+    },
+    "appname": {
+        "message": "QR CODE GENERATOR"
+    },
+    "generatelink": {
+        "message": "Generate  QR Code"
+    },
+    "generateBtn": {
+        "message": "Generate"
+    },
+    "generateemail": {
+        "message": "Generate E-mail QR Code"
+    },
+    "generatesms": {
+        "message": "Generate SMS QR Code"
+    },
+    "generatevcard": {
+        "message": "Generate  QR Code for student form"
+    },
+    "generategeo": {
+        "message": "Generate GEO QR Code"
+    },
+    "qrESubject": {
+        "message": "Subject"
+    },
+    "qrEMessage": {
+        "message": "Message"
+    },
+    "qrSNumber": {
+        "message": "Number"
+    },
+    "qrSMessage": {
+        "message": "Message"
+    },
+    "qrVName": {
+        "message": "Name"
+    },
+    "qrVLName": {
+        "message": "Last name"
+    },
+    "qrVOrg": {
+        "message": "BRANCH"
+    },
+    "qrVTitle": {
+        "message": "Roll NO"
+    },
+"qrVFAX": {
+        "message": "Attendance"
+    },
+"qrVCountry": {
+        "message": "College"
+    },
+    "qrVCity": {
+        "message": "City"
+    },
+    "qrVLocation": {
+        "message": "State/Region/County"
+    },
+    "qrVZip": {
+        "message": "Zip / Postal code"
+    },
+    
+    "qrVMobile": {
+        "message": "Mobile phone"
+    },
+    "qrVBday": {
+        "message": "Birthday"
+    }
+}

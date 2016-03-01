@@ -1,0 +1,36 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "name": "QRCode GENERATOR",
+    "description": "OFFLINE QRCODE GENERATOR",
+    "name": "__MSG_appname__",
+    "default_locale": "en",
+    "description": "__MSG_appdescription__",
+    "version": "1.0.0.0",
+    "manifest_version": 2,
+    "offline_enabled": true,
+    "minimum_chrome_version": "23",
+    "permissions": ["notifications", "clipboardRead", "clipboardWrite", "contextMenus", "http://*.lucasguimaraes.com/*", "storage", {
+            "fileSystem": ["write", "directory"]
+        }
+    ],
+    "app": {
+        "background": {
+            "scripts": ["js/background.js"],
+            "persistent": false
+        }
+    },
+    "icons": {
+        "16": "images/png/qr16.png",
+        "24": "images/png/qr24.png",
+        "32": "images/png/qr32.png",
+        "48": "images/png/qr48.png",
+        "64": "images/png/qr64.png",
+        "96": "images/png/qr96.png",
+        "128": "images/png/qr128.png",
+        "128": "images/png/qr172.png",
+        "256": "images/png/qr256.png",
+        "512": "images/png/qr512.png"
+    },
+    "short_name": "QR GEN"
+}
